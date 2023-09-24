@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "a_naive",
+  "c_trait",
+  "d_declarative_macro",
+  "e_procedural_macro",
+  "e2_derive_draw",
+]
